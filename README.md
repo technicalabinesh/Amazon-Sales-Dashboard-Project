@@ -28,7 +28,12 @@ The dashboard transforms this data into easy-to-understand visuals for decision-
 - **Total Titles:** 9655  
 - **Ratings Categories:** 25  
 - **Total Directors:** 5771  
-- **Total Content Types:** 11  
+- **Total Content Types:** 11
+
+  ## Dashboard Picture
+
+  ![Dashboard](Screenshot%202025-11-09%20204016.png)
+
 
 ---
 
